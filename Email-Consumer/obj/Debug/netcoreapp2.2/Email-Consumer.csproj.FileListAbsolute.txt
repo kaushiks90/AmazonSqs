@@ -1,0 +1,11 @@
+C:\Users\Kaushik\Desktop\Core\Email-Producer\Email-Consumer\bin\Debug\netcoreapp2.2\Email-Consumer.deps.json
+C:\Users\Kaushik\Desktop\Core\Email-Producer\Email-Consumer\bin\Debug\netcoreapp2.2\Email-Consumer.runtimeconfig.json
+C:\Users\Kaushik\Desktop\Core\Email-Producer\Email-Consumer\bin\Debug\netcoreapp2.2\Email-Consumer.runtimeconfig.dev.json
+C:\Users\Kaushik\Desktop\Core\Email-Producer\Email-Consumer\bin\Debug\netcoreapp2.2\Email-Consumer.dll
+C:\Users\Kaushik\Desktop\Core\Email-Producer\Email-Consumer\obj\Debug\netcoreapp2.2\Email-Consumer.csproj.CoreCompileInputs.cache
+C:\Users\Kaushik\Desktop\Core\Email-Producer\Email-Consumer\obj\Debug\netcoreapp2.2\Email-Consumer.AssemblyInfoInputs.cache
+C:\Users\Kaushik\Desktop\Core\Email-Producer\Email-Consumer\obj\Debug\netcoreapp2.2\Email-Consumer.AssemblyInfo.cs
+C:\Users\Kaushik\Desktop\Core\Email-Producer\Email-Consumer\obj\Debug\netcoreapp2.2\Email-Consumer.csprojAssemblyReference.cache
+C:\Users\Kaushik\Desktop\Core\Email-Producer\Email-Consumer\bin\Debug\netcoreapp2.2\Email-Consumer.pdb
+C:\Users\Kaushik\Desktop\Core\Email-Producer\Email-Consumer\obj\Debug\netcoreapp2.2\Email-Consumer.dll
+C:\Users\Kaushik\Desktop\Core\Email-Producer\Email-Consumer\obj\Debug\netcoreapp2.2\Email-Consumer.pdb

@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "407811fa747dce4c745d560a9bee3e8c0e65c9ea"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "Email-Producer/1.0.0": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.100.5",
+          "AWSSDK.SQS": "3.3.100.5"
+        },
+        "runtime": {
+          "Email-Producer.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.3.100.5": {
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.100.5"
+          }
+        }
+      },
+      "AWSSDK.SQS/3.3.100.5": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.100.5"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.SQS.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.100.5"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Email-Producer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.3.100.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fAShnrXCjIXJpGAtPzQ7raXMJbiyfXJg4MtYmFqNl2Kt/NpxPxsCaanI7h0Dx5a14XxYmwHjhpU3Hw2bDXUOEw==",
+      "path": "awssdk.core/3.3.100.5",
+      "hashPath": "awssdk.core.3.3.100.5.nupkg.sha512"
+    },
+    "AWSSDK.SQS/3.3.100.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8xyhwTscsr1VRAln+zJe55VKqVn1lfCHsjKs/hJIMyvQ+/yW6bMfaINQFfRcBxXTwixBKXhoPWPY+aDfzUeekg==",
+      "path": "awssdk.sqs/3.3.100.5",
+      "hashPath": "awssdk.sqs.3.3.100.5.nupkg.sha512"
+    }
+  }
+}
